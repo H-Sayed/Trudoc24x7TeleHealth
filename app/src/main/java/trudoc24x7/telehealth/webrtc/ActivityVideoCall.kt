@@ -28,9 +28,6 @@ import com.tokbox.android.otsdkwrapper.wrapper.OTWrapper
 import java.util.ArrayList
 import java.util.HashMap
 import java.util.Locale
-import butterknife.BindView
-import butterknife.ButterKnife
-import butterknife.Unbinder
 import trudoc24x7.telehealth.R
 import trudoc24x7.telehealth.TeleMedicineEventsBus
 import trudoc24x7.telehealth.events.*

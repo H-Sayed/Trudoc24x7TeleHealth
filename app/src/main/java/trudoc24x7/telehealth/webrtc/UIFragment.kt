@@ -10,9 +10,6 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageButton
 import com.tokbox.android.otsdkwrapper.utils.MediaType
-import butterknife.BindView
-import butterknife.ButterKnife
-import butterknife.Unbinder
 import trudoc24x7.telehealth.R
 
 

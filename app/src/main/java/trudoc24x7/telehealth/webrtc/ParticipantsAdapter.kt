@@ -7,8 +7,6 @@ import android.view.ViewGroup
 import android.widget.RelativeLayout
 import android.widget.TableRow
 import com.tokbox.android.otsdkwrapper.utils.MediaType
-import butterknife.BindView
-import butterknife.ButterKnife
 import trudoc24x7.telehealth.R
 
 internal class ParticipantsAdapter(
