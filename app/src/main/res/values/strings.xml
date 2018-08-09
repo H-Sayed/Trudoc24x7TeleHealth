@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Trudoc24x7TeleHealth</string>
+
+
+    <string name="incoming_call_title">Incoming Call</string>
+    <string name="incoming_call_accept">Accept</string>
+    <string name="video_call_missed">You have missed video call</string>
+    <string name="video_call_connecting">Connecting</string>
+    <string name="video_call_connected">Connected</string>
+    <string name="video_call_disconnected">Disconnected</string>
+    <string name="video_call_failed">Connection Failed</string>
+    <string name="video_call_ended">Call ended</string>
+    <string name="video_ongoing_call">Ongoing call</string>
+    <string name="video_ongoing_call_end">End</string>
+    <string name="video_join_error" translatable="false">Unable to join user  with emr id (e) to Session ID (r) because (f)</string>
+    <string name="video_leave_error" translatable="false">User  with emr id (e) disconnected from Session ID (r) because (f)</string>
+    <string name="network_quality">Network connection is unstable</string>
+    <string name="reconnecting">call is reconnecting</string>
+    <string name="connection_wait_title">Please wait</string>
+    <string name="connection_wait_message">Connecting ...</string>
+
+    <string name="permission_rejected">Permissions Rejected</string>
+    <string name="config_rejected">Empty Config</string>
+</resources>
